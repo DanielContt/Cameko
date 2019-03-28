@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "66442655026",
+    "firebase_url": "https://cameco-f08bb.firebaseio.com",
+    "project_id": "cameco-f08bb",
+    "storage_bucket": "cameco-f08bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66442655026:android:c3ee845cd7642b42",
+        "android_client_info": {
+          "package_name": "com.exemplo.aws.cameco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66442655026-4fna2hkhbt0q4dhknupqpb1spjvhqd36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkjHLTec82q0umTSqzM0B-Cuynm3DUQ60"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

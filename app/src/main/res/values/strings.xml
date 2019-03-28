@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Cameco</string>
+
+    <string name="Regresar">reg_btn</string>
+    <string name="reg_btn">Regresar</string>
+    <string name="img_cent">Imagen_centro</string>
+    <string name="reg_ini" />
+    <string name="texto_des">En el centro historico de tepic siempre hay basura en las calles y mas en la plaza principal por eso te invito a realizar una limpieza a la calles afectadas te esperamos en la enfrente de presidencia el 01/04/19 ¡no faltes! Publicada el 17/03/19</string>
+    <string name="sig_sig">Siguiente</string>
+    <string name="imagen_reg">registro_image</string>
+    <string name="nom_reg">Nombre</string>
+    <string name="reg_nom">Nombre</string>
+    <string name="vol_reg">Registrar</string>
+    <string name="plan_txt">Contraseña</string>
+    <string name="reg_iniar">Regresar</string>
+    <string name="sig_inin">Siguiente</string>
+    <string name="ima_bas">imagen_01</string>
+    <string name="reg_isi">Volver</string>
+    <string name="txt_ala">En la colonia comerciantes de tepic siempre que paso hay basura en las calles y mas en las acantarillas por eso te invito a realizar una limpieza a la calles afectadas te esperamos en la plaza de esta colonia el 01/04/19 Publicada el 17/03/19</string>
+    <string name="sal_salir">Salir</string>
+    <string name="tep_nay">Tepic</string>
+    <string name="xal_nay" />
+    <string name="xal_naya">Xalisco</string>
+    <string name="image">login</string>
+    <string name="jajaj" />
+    <string name="ajaj">Corero</string>
+   <string name="edtx" > Correo electronico </string>
+    <string name="iniciar_se">iniciar sesion</string>
+    <string name="reg_reg">Regresar</string>
+    <string name="proxi">PROXIMAMENTE</string>
+
+</resources>
